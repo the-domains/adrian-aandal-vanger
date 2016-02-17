@@ -1,0 +1,28 @@
+name: Adrian.Aandal-Vanger
+favicon: null
+layout_spectrum: 0.47041629487648606
+typography_spectrum: 0.08173182653263211
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.511731298873201
+  lightness: 0.6595096962992102
+  saturation: 0.1884141443297267
+  rhythmicContrast: 0.8219999242573977
+purpose: []
